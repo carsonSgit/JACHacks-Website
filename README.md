@@ -11,7 +11,7 @@
 
 ## Event Details
 > 📅 **Event Details:**
-- **Attendees:** Over 100 enthusiastic participants including university students, CEGEP students, and professionals.
+- **Attendees:** 100+ enthusiastic participants including university students, CEGEP students, and professionals.
 - **Feedback:** Enormously positive responses from attendees.
 - **Duration:** 24-hour event hosted in our school's beautiful and spacious library.
 - **Organizational Time:** Organized and executed within **1.5 months from start to finish**.
